@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+}
+.fdkf {
+  display: flex;
+  align-items: center;
+}
+.count {
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  padding-left: 9px;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.logoimg {
+  height: 50px;
+  width: 180px;
+  margin-top: 12px;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: rgb(208, 184, 237);
+  height: 170vh;
+}
+.card {
+  display: flex;
+  background-color: #5763a5;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 400px;
+  width: 1000px;
+}
+.card2 {
+  color: white;
+  background-color: #5763a5;
+  border-radius: 10px;
+  margin-top: 10px;
+  height: 400px;
+  width: 1000px;
+}
+.lgimg {
+  height: 400px;
+  width: 400px;
+}
+.form {
+  background-color: #454f84;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  border-radius: 8px;
+  height: 370px;
+  width: 400px;
+}
+button {
+  height: 30px;
+  width: 70px;
+}
+.divbutton {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+.heading {
+  color: white;
+  font-size: 40px;
+}
+.inputdiv {
+  display: flex;
+  align-items: center;
+}
+.input {
+  height: 36px;
+  width: 300px;
+  border-radius: 3px;
+  text-align: center;
+  border: none;
+}
+.imgg {
+  height: 40px;
+  width: 38px;
+}
+.upper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.searchicon {
+  height: 34px;
+  width: 43px;
+}
+.iconsearch {
+  display: flex;
+  align-items: center;
+}
+.input2 {
+  height: 30px;
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  border: none;
+  margin-right: 10px;
+}
+.checkdiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.checkbox {
+  height: 17px;
+  width: 17px;
+}
+.ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.imgno {
+  height: 170px;
+  width: 400px;
+}
+.divvv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.passwordpara{
+  font-size: 26px;
+}
